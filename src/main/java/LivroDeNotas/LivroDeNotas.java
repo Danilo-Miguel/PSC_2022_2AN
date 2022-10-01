@@ -2,7 +2,6 @@ package LivroDeNotas;
 
 import javax.swing.JOptionPane;
 
-
 public class LivroDeNotas {
 
     private String nomeDoCurso;
